@@ -44,3 +44,12 @@ body{
     border: none;
     outline: none;
 }
+
+@media screen and (max-width: 560px) {
+    #textarea {
+       width: 100%;
+     }
+     #tags{
+        width: 100%;
+     }
+   }
